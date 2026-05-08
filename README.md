@@ -22,7 +22,7 @@ The application supports multiple local LLMs such as Llama3 and Gemma, allowing 
 ## 🖥️ Demo
 
 ### Streamlit Chat Interface
-![Streamlit UI](images/Untitled.png)
+![Streamlit UI](images/Untitled2.png)
 
 ### LangSmith Project & Traces
-![LangSmith Tracing](images/Untitled2.png)
+![LangSmith Tracing](images/Untitled.png)
