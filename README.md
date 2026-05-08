@@ -1,21 +1,27 @@
-# LangChain Ollama Q&A Chatbot
+# LangChain Groq Q&A Chatbot
 
-An AI-powered Q&A chatbot built using Streamlit, LangChain, and Ollama.  
-The application supports multiple local LLMs such as Llama3 and Gemma, allowing users to interact with AI models through a simple and responsive web interface.
+An AI-powered Q&A chatbot built using Streamlit, LangChain, and Groq APIs.  
+The application supports multiple high-performance LLMs such as Llama 3.1, Llama 3.3, and GPT-OSS-20B, enabling users to interact with AI models through a fast and responsive web interface.
 
 ## Features
-- Multiple Ollama model support
+- Multiple Groq-hosted LLM support
 - Interactive Streamlit UI
 - Prompt chaining using LangChain
 - Adjustable temperature and token settings
-- Local LLM execution
+- Real-time AI response generation
+- Secure API key input through the UI
 - LangSmith tracing integration
+
+## Supported Models
+- llama-3.1-8b-instant
+- llama-3.3-70b-versatile
+- openai/gpt-oss-20b
 
 ## Tech Stack
 - Python
 - Streamlit
 - LangChain
-- Ollama
+- Groq API
 - LangSmith
 
 
