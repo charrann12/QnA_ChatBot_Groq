@@ -17,3 +17,12 @@ The application supports multiple local LLMs such as Llama3 and Gemma, allowing 
 - LangChain
 - Ollama
 - LangSmith
+
+
+## 🖥️ Demo
+
+### Streamlit Chat Interface
+![Streamlit UI](images/Untitled.png)
+
+### LangSmith Project & Traces
+![LangSmith Tracing](images/Untitled2.png)
